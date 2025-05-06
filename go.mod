@@ -1,6 +1,6 @@
-module github.com/seelly/gorm-oracle
+module github.com/lichao0223/gorm-oracle
 
-go 1.23
+go 1.21
 
 require (
 	github.com/emirpasic/gods v1.18.1
